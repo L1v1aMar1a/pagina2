@@ -1,0 +1,16 @@
+#cabecalho{
+    font-size: 60px;
+    background-color: rgb(185,185,255);
+    padding: 20px;
+    text-align: center;
+    font-style: unset;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+#caixa{
+    border: black solid 2px;
+    border-radius: 10px;
+    padding: 20px;
+    width: 350px;
+    text-align: left;
+}
